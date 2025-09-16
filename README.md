@@ -18,7 +18,9 @@
 
 ---
 
-## 📱 Some screenshots :  visit : (https://apkcombo.com/stconnect-sri-lanka-%F0%9F%87%B1%F0%9F%87%B0/com.shane.stconnect/) for more screenshots
+## 📱 Some screenshots : 
+
+visit : (https://apkcombo.com/stconnect-sri-lanka-%F0%9F%87%B1%F0%9F%87%B0/com.shane.stconnect/) for more screenshots
 
 | Banner | Q&A Feed | Ask a Question | Profile |
 |-------|----------|---------------|----------|
