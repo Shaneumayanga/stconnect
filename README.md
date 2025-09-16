@@ -52,7 +52,7 @@ Stconnect received positive feedback from students and teachers. These are some 
 ---
 
 ## 📦 Future Plans  
-Although STConnect is no longer on the Play Store, it serves as a proof of concept and a foundation for future educational platforms.  
+Although Stconnect is no longer on the Play Store, it serves as a proof of concept and a foundation for future educational platforms.  
 
 ---
 
