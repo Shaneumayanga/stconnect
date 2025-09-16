@@ -1,4 +1,4 @@
-# STConnect  
+# Stconnect  
 
 **Stconnect** is a Q&A platform I built for school students during the COVID-19 lockdown. It was designed to help students and teachers connect, ask questions, and learn from each other during a time of remote learning.  
 
@@ -14,7 +14,7 @@
 
 ## 📰 Featured On  
 [![Watch the video](https://img.shields.io/badge/YouTube-Featured%20Video-red?style=flat&logo=youtube)](https://youtu.be/DNG86oDpfbg?list=PLNT4hXe0urza6BGq0677tq6YUvnpdKowu&t=411)  
-> STConnect was showcased on a Sri Lankan tech channel, gaining significant visibility among students and teachers.  
+> Stconnect was showcased on a Sri Lankan tech channel, gaining significant visibility among students and teachers.  
 
 ---
 
@@ -42,7 +42,8 @@ Stconnect received positive feedback from students and teachers. These are some 
 ---
 
 ### Review 3  
-![Review3](https://github.com/user-attachments/assets/a0cfc75a-c874-44ac-bee1-16c172368f7e)  
+
+<img width="1041" height="245" alt="Screenshot 2025-09-17 at 00 06 37" src="https://github.com/user-attachments/assets/db079e47-4bfb-482c-85b3-4da8bf9048b7" />
 
 ---
 
