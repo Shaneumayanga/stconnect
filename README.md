@@ -20,8 +20,6 @@
 
 ## 📱 Some screenshots : 
 
-visit : (https://apkcombo.com/stconnect-sri-lanka-%F0%9F%87%B1%F0%9F%87%B0/com.shane.stconnect/) for more screenshots
-
 | Banner | Q&A Feed | Ask a Question | Profile |
 |-------|----------|---------------|----------|
 | ![Home](https://github.com/user-attachments/assets/2dd563b0-2036-46a2-9ef4-8b390e4f92fb) | ![Feed](https://github.com/user-attachments/assets/3c67a408-9c9f-42b9-8389-a54afda5b6e3) | ![Ask](https://github.com/user-attachments/assets/7068e310-9427-44af-889c-12f4f31fbadb) | ![Profile](https://github.com/user-attachments/assets/665b8346-49a4-4767-93e7-8a82712cd22a) |
@@ -41,6 +39,10 @@ STConnect received positive feedback from students for its ease of use and usefu
 Although STConnect is no longer on the Play Store, it serves as a proof of concept and a foundation for future educational platforms.  
 
 ---
+
+
+visit : (https://apkcombo.com/stconnect-sri-lanka-%F0%9F%87%B1%F0%9F%87%B0/com.shane.stconnect/) for more screenshots
+
 
 ## 🛠️ Tech Stack 
 - **Frontend:** Flutter
