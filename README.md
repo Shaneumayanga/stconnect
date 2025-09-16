@@ -1,6 +1,6 @@
 # STConnect  
 
-**STConnect** is a Q&A platform I built for school students during the COVID-19 lockdown. It was designed to help students and teachers connect, ask questions, and learn from each other during a time of remote learning.  
+**Stconnect** is a Q&A platform I built for school students during the COVID-19 lockdown. It was designed to help students and teachers connect, ask questions, and learn from each other during a time of remote learning.  
 
 ---
 
@@ -27,11 +27,27 @@
 ---
 
 ## 📝 User Feedback  
-STConnect received positive feedback from students for its ease of use and usefulness. These are some of the reviews 
+Stconnect received positive feedback from students and teachers. These are some of the reviews:  
 
-| Review 1 | Review 2 | Review 3 | Review 4 |
-|-----------|-----------|-----------|-----------|
-| ![Review1](https://github.com/user-attachments/assets/067b857f-d722-4b8d-81e0-13eebb0b8ef9) | ![Review2](https://github.com/user-attachments/assets/1bfe520f-4a93-4fc2-b385-e90a03d03560) | ![Review3](https://github.com/user-attachments/assets/a0cfc75a-c874-44ac-bee1-16c172368f7e) | ![Review4](https://github.com/user-attachments/assets/59ce4e88-b39d-4492-a14c-8be9fdf430c4) |
+---
+
+### Review 1  
+![Review1](https://github.com/user-attachments/assets/067b857f-d722-4b8d-81e0-13eebb0b8ef9)  
+
+---
+
+### Review 2  
+![Review2](https://github.com/user-attachments/assets/1bfe520f-4a93-4fc2-b385-e90a03d03560)  
+
+---
+
+### Review 3  
+![Review3](https://github.com/user-attachments/assets/a0cfc75a-c874-44ac-bee1-16c172368f7e)  
+
+---
+
+### Review 4  
+![Review4](https://github.com/user-attachments/assets/59ce4e88-b39d-4492-a14c-8be9fdf430c4)  
 
 ---
 
